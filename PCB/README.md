@@ -7,7 +7,7 @@ The PCB design files are presented in Eagle format.
 Below you see a photo of the unpopulated PCB, top and bottom side
 
 <p width=100%, align="center">
-<img width=40%, src="https://github.com/m0xpd/sample-and-hold/assets/3152962/ed1ce3bc-f91e-45d1-b338-513b30602ff9">
+<img width=40%, src="https://github.com/m0xpd/sample-and-hold/assets/3152962/b4e4df11-3a6b-4e1d-afc8-4619bd7ef4dc">
 </p>  
 
 ## BoM and Capacitor Types
@@ -27,5 +27,5 @@ and [alpha 9mm vertical potentiometers](https://www.thonk.co.uk/shop/alpha-9mm-p
 The populated PBC is seen from the component side in the photo below:
 
 <p width=100%, align="center">
-<img width=40%, src="https://github.com/m0xpd/sample-and-hold/assets/3152962/8a3a4eac-9338-4db8-95d0-596bd2c8f82b">
+<img width=40%, src="https://github.com/m0xpd/sample-and-hold/assets/3152962/cc1690b0-b6aa-4b63-9ccf-bb6dbba61891">
 </p>  

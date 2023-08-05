@@ -24,6 +24,7 @@ and [alpha 9mm vertical potentiometers](https://www.thonk.co.uk/shop/alpha-9mm-p
    C9 was chosen as a box polyester film (for space) - other types (such as multi-layer polyester) are suitable.
    
    C7 must be a low leakage type - I have used a box polyester film reasonably succesfully, but (e.g.) polystyrene would work better.
+   
    ALL OTHER CAPS ARE CERAMICS
 
 The populated PBC is seen from the component side in the photo below:

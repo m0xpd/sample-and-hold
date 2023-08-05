@@ -15,10 +15,13 @@ S&H is published under a Creative Commons BY-SA 4.0 [License](https://github.com
 
 **Implementation**
 
-The system is implemented on a single.
+The system is implemented on a single PCB.
 
 The schematic for the system is linked by the graphic below below (click for the full-size schematic):
 
+<p width=100%, align="center">
+<img width=75%, src="https://github.com/m0xpd/sample-and-hold/assets/3152962/85960574-cbe4-42e9-840e-8b9645dcefed">
+</p>  
 
 **Specifications**
 

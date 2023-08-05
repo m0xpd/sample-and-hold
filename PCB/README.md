@@ -20,7 +20,9 @@ control the spacing between the PCB and the front panel. For this reason, [Thonk
 and [alpha 9mm vertical potentiometers](https://www.thonk.co.uk/shop/alpha-9mm-pots-vertical-t18/) are specified.
 2) Capacitor Types are as follows:
    C1 & C2 are polarised electrolytics
-   C9 was chosen as a box polyester film (for space) - other types (such as multi-layer polyester) are suitable
+
+   C9 was chosen as a box polyester film (for space) - other types (such as multi-layer polyester) are suitable.
+   
    C7 must be a low leakage type - I have used a box polyester film reasonably succesfully, but (e.g.) polystyrene would work better.
    ALL OTHER CAPS ARE CERAMICS
 

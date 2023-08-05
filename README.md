@@ -12,8 +12,10 @@ This repository describes a simple sample & hold module, developed for electroni
 
 **Functional Description**
 
-A block diagram of S&H is shown below:
-
+S&H is designed to be a simple, "no frills" sample and hold. It just detects a rising edge on the TRIGGER input and samples the 
+voltage applied to INPUT at the point of this edge and holds on OUTPUT until the next triggering event. There is a GATE output, 
+which is asserted for as long as the TRIGGER signal is high and an internal clock, which generates a trigger stream normalled 
+to the edge detection circuits when nothing else is plugged into the TRIGGER input.
 
 **Licensing**
 
@@ -31,6 +33,6 @@ The schematic for the system is linked by the graphic below below (click for the
 
 **Specifications**
 
-S&H is 6HP wide and extends xxmm behind the front panel (when a standard Eurorack power header is inserted).
+S&H is 6HP wide and extends 30mm behind the front panel (when a standard Eurorack power header is inserted).
 
-S&H draws xx mA from the +12V supply and xx mA from the -12V supply.
+S&H draws <9 mA (typically 5mA) from the +12V supply and <6 mA (typically 3mA) from the -12V supply.

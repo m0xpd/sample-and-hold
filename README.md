@@ -27,8 +27,9 @@ The system is implemented on a single PCB.
 
 The schematic for the system is linked by the graphic below below (click for the full-size schematic):
 
+
 <p width=100%, align="center">
-<img width=75%, src="https://github.com/m0xpd/sample-and-hold/assets/3152962/85960574-cbe4-42e9-840e-8b9645dcefed">
+<img width=75%, src="https://github.com/m0xpd/sample-and-hold/assets/3152962/9268b6fa-4daa-4ca6-9970-5b45db59d208">
 </p>  
 
 **Specifications**

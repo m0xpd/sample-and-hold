@@ -1,8 +1,9 @@
 # S&H
 A Sample and Hold for Eurorack, based on the LF398
 
+
 <p width=40%, align="center">
-<img width=40%, src="https://github.com/m0xpd/sample-and-hold/assets/3152962/3dcf815b-d350-4177-bf48-5fa0a5e17661">
+<img width=40%, src="https://github.com/m0xpd/sample-and-hold/assets/3152962/c778589b-91dd-4300-bd1d-6ec3a20270f0">
 </p>  
 
 

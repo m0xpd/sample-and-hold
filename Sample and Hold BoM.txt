@@ -1,0 +1,49 @@
+Partlist exported from /Users/pauldarlington/Documents/EAGLE/projects/Sample and Hold/Sample and Hold Main.sch at 05/08/2023 07:36
+
+Part Value                     Device                    Package             Description                                       POPULARITY SPICEPREFIX
+C1   22u                       CPOL-EUE2.5-6             E2,5-6              POLARIZED CAPACITOR, European symbol              26         C          
+C2   22u                       CPOL-EUE2.5-6             E2,5-6              POLARIZED CAPACITOR, European symbol              26         C          
+C3   0.1u                      C-EU050-024X044           C050-024X044        CAPACITOR, European symbol                        33         C          
+C4   0.1u                      C-EU050-024X044           C050-024X044        CAPACITOR, European symbol                        33         C          
+C5   0.1u                      C-EU050-024X044           C050-024X044        CAPACITOR, European symbol                        33         C          
+C6   0.1u                      C-EU050-024X044           C050-024X044        CAPACITOR, European symbol                        33         C          
+C7   10n                       C-EU050-025X075           C050-025X075        CAPACITOR, European symbol                        29         C          
+C8   2n2                       C-EU050-024X044           C050-024X044        CAPACITOR, European symbol                        33         C          
+C9   470n                      C-EU050-035X075           C050-035X075        CAPACITOR, European symbol                        2          C          
+D1   1N5817-B                  1N5817-B                  DO41-7.6            1.0A SCHOTTKY BARRIER RECTIFIER                   0                     
+D2   1N5817-B                  1N5817-B                  DO41-7.6            1.0A SCHOTTKY BARRIER RECTIFIER                   0                     
+D3   1N4148DO35-7              1N4148DO35-7              DO35-7              DIODE                                             58                    
+D4   1N4148DO35-7              1N4148DO35-7              DO35-7              DIODE                                             58                    
+D5   1N4148DO35-7              1N4148DO35-7              DO35-7              DIODE                                             58                    
+IC1  LF398                     LF398                     DIL08               Sample and Hold device                                                  
+IC2  TL074_                    TL074_                    DIL14               Generic Quad Op Amp                                                     
+LED1                           LED3MM                    LED3MM              LED                                               97                    
+Q1   BC546B                    BC546B                    TO92-EBC            NPN Transistor                                    0                     
+R1   10                        R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R2   10                        R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R3   5k6                       R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R4   1k8                       R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R5   100k                      R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R6   100k                      R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R7   15k                       R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R8   100k                      R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R9   100k                      R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R10  100k                      R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R11  100k                      R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R12  33k                       R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R13  10k                       R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R14  100k                      R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R15  470                       R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R16  100k                      R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R17  5k6                       R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R18  1k8                       R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R19  1k                        R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R20  100k                      R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R21  2k2                       R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+R22  100k                      R-EU_0204/7               0204/7              RESISTOR, European symbol                         79         R          
+SK1  EURO_POWER_HEADERFAT_PADS EURO_POWER_HEADERFAT_PADS EURO_PWR_HEADER_FAT Power Header                                                            
+SK2  THONKICONNNEW             THONKICONNNEW             WQP-PJ301M-12_JACK  3.5mm socket for Eurorack modular synths                                
+SK3  THONKICONNNEW             THONKICONNNEW             WQP-PJ301M-12_JACK  3.5mm socket for Eurorack modular synths                                
+SK4  THONKICONNNEW             THONKICONNNEW             WQP-PJ301M-12_JACK  3.5mm socket for Eurorack modular synths                                
+SK5  THONKICONNNEW             THONKICONNNEW             WQP-PJ301M-12_JACK  3.5mm socket for Eurorack modular synths                                
+VR1  A1M                       9MM_SNAP-IN_POT_          9MM_SNAP-IN_POT     9mm vertical snap-in pot, Alpha / Panasonic style                       
